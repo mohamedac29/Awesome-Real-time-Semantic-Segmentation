@@ -26,9 +26,12 @@ Semantic Segmentation for autonomous driving
 | Year | Venue | Acronym | Paper Title | Code/Project |
 |------|-------|---------|-------------|--------------|
 | 2021 | T-ITS  | DDRNet | [Deep Dual-resolution Networks for Real-time and Accurate Semantic Segmentation of Road Scenes](https://arxiv.org/abs/2101.06085) | [Code]( https://github.com/ydhongHIT/DDRNet) |
+| 2021 | CVPR  |  STDC-Seg | [Rethinking BiSeNet For Real-time Semantic Segmentation](https://arxiv.org/abs/2104.13188) | [Code](https://github.com/MichaelFan01/STDC-Seg) |
+
+
+
+
+
+<!-- | 2021 | NeurIPS | MaskFormer | [MaskFormer: Per-Pixel Classification is Not All You Need for Semantic Segmentation](https://arxiv.org/abs/2107.06278) | [Code](https://github.com/facebookresearch/MaskFormer) | -->
 <!-- | 2023 | CVPR  | PIDNet| [PIDNet: A Real-time Semantic Segmentation Network Inspired by PID Controllers
 ](https://arxiv.org/abs/2206.02066) | [Code](https://github.com/XuJiacong/PIDNet) | -->
-| 2021 | CVPR  |  STDC-Seg | [Rethinking BiSeNet For Real-time Semantic Segmentation](https://arxiv.org/abs/2104.13188) | [Code](https://github.com/MichaelFan01/STDC-Seg) |
-<!-- | 2021 | NeurIPS | MaskFormer | [MaskFormer: Per-Pixel Classification is Not All You Need for Semantic Segmentation](https://arxiv.org/abs/2107.06278) | [Code](https://github.com/facebookresearch/MaskFormer) | -->
-
-
