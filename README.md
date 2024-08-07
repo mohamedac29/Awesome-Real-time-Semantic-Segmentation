@@ -24,7 +24,7 @@ Semantic Segmentation for autonomous driving
 ### Meta-Architecture
 
 | Year | Venue | Acronym | Paper Title | Code/Project | Dataset(s)|
-|------|-------|---------|-------------|--------------|
+|------|-------|---------|-------------|--------------|--------------|
 | 2021 | T-ITS  | DDRNet | [Deep Dual-resolution Networks for Real-time and Accurate Semantic Segmentation of Road Scenes](https://arxiv.org/abs/2101.06085) | [Code]( https://github.com/ydhongHIT/DDRNet) | Cityscapes, CamVid| 
 | 2021 | CVPR  |  STDC-Seg | [Rethinking BiSeNet For Real-time Semantic Segmentation](https://arxiv.org/abs/2104.13188) | [Code](https://github.com/MichaelFan01/STDC-Seg) | Cityscapes, CamVid|
 
