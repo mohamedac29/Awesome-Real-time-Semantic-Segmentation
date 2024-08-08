@@ -31,10 +31,10 @@ Semantic Segmentation for autonomous driving
 | 202 7| T-ITS  |  ERFNet | [ERFNet: Efficient Residual Factorized ConvNet for Real-time Semantic Segmentation](https://ieeexplore.ieee.org/document/8063438) | [Code](https://github.com/Eromera/erfnet) | Cityscapes, CamVid|
 | 2018 | CVPR  |  ICNet | [ICNet for Real-Time Semantic Segmentation on High-Resolution Images](https://arxiv.org/abs/1704.08545) | [Code](https://github.com/hszhao/ICNet) | Cityscapes, CamVid|
 | 2017 | T-PAMI |  SegNet | [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](https://ieeexplore.ieee.org/abstract/document/7803544) | [Code](https://github.com/alexgkendall/caffe-segnet) | Cityscapes, CamVid|
-| 2019 | ICIp  |  LEDNet | [Lednet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/8803154) | [Code](https://github.com/xiaoyufenfei/LEDNet) | Cityscapes, CamVid|
+| 2019 | ICIP  |  LEDNet | [Lednet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/8803154) | [Code](https://github.com/xiaoyufenfei/LEDNet) | Cityscapes, CamVid|
 | 2018 | CVPR  |  BiSeNet | [BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation](https://arxiv.org/abs/2104.13188) | [Code](https://github.com/MichaelFan01/STDC-Seg) | Cityscapes, CamVid|
 | 2021 | IJCV  |  BiSeNetV2 | [BiSeNet V2: Bilateral Network with Guided Aggregation for Real-Time Semantic Segmentation](https://link.springer.com/article/10.1007/s11263-021-01515-2) | [Code](https://github.com/CoinCheung/BiSeNet) | Cityscapes, CamVid|
-| 2019 | CVPR  |  LiteSeg | [LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/8945975) | [Code](https://github.com/xiaoyufenfei/LEDNet) | Cityscapes, CamVid|
+| 2019 | DICTA |  LiteSeg | [LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/8945975) | [Code](https://github.com/xiaoyufenfei/LEDNet) | Cityscapes, CamVid|
 
 
 
