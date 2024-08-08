@@ -28,7 +28,7 @@ Semantic Segmentation for autonomous driving
 | 2021 | T-ITS  | DDRNet | [Deep Dual-resolution Networks for Real-time and Accurate Semantic Segmentation of Road Scenes](https://arxiv.org/abs/2101.06085) | [Code]( https://github.com/ydhongHIT/DDRNet) | Cityscapes, CamVid| 
 | 2021 | CVPR  |  STDC-Seg | [Rethinking BiSeNet For Real-time Semantic Segmentation](https://arxiv.org/abs/2104.13188) | [Code](https://github.com/MichaelFan01/STDC-Seg) | Cityscapes, CamVid|
 
-| 2021 | CVPR  |  ENet | [Rethinking BiSeNet For Real-time Semantic Segmentation](https://arxiv.org/abs/2104.13188) | [Code](https://github.com/iArunava/ENet-Real-Time-Semantic-Segmentation) | Cityscapes, CamVid|
+| 2021 | CVPR  |  ENet | [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](https://arxiv.org/abs/1606.02147) | [Code](https://github.com/iArunava/ENet-Real-Time-Semantic-Segmentation) | Cityscapes, CamVid|
 | 202 7| T-ITS  |  ERFNet | [ERFNet: Efficient Residual Factorized ConvNet for Real-time Semantic Segmentation](https://ieeexplore.ieee.org/document/8063438) | [Code](https://github.com/Eromera/erfnet) | Cityscapes, CamVid|
 | 2018 | CVPR  |  ICNet | [ICNet for Real-Time Semantic Segmentation on High-Resolution Images](https://arxiv.org/abs/1704.08545) | [Code](https://github.com/hszhao/ICNet) | Cityscapes, CamVid|
 | 2017 | T-PAMI |  SegNet | [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](https://ieeexplore.ieee.org/abstract/document/7803544) | [Code](https://github.com/alexgkendall/caffe-segnet) | Cityscapes, CamVid|
@@ -67,11 +67,11 @@ Semantic Segmentation for autonomous driving
  FasterSeg https://github.com/VITA-Group/FasterSeg Officialcode
  ESNet https://github.com/osmr/imgclsmob Third-partycode
  LEDNet https://github.com/xiaoyufenfei/LEDNet Third-partycode -->
- ICNet https://github.com/hszhao/ICNet Officialcode
+ <!-- ICNet https://github.com/hszhao/ICNet Officialcode
  Template-Based-NAS-arch1 https://github.com/drsleep/nas-segm-pytorch Officialcode
  LiteSeg https://github.com/tahaemara/LiteSeg Officialcode
  Template-Based-NAS-arch0 https://github.com/drsleep/nas-segm-pytorch Officialcode
  ENet https://github.com/iArunava/ENet-Real-Time-Semantic-Segmentation Third-partycode
  ENet+Lovász-Softmax https://github.com/bermanmaxim/LovaszSoftmax Officialcode
  SegNet https://github.com/alexgkendall/caffe-segnet Third-partycode
- EDANet https://github.com/shaoyuanlo/EDANet Officialcode
+ EDANet https://github.com/shaoyuanlo/EDANet Officialcode -->
