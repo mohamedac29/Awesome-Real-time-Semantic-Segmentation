@@ -1,4 +1,4 @@
-# Awesome-Real-time-Semantic-Segmentation
+# Real-time-Semantic-Segmentation
 Semantic Segmentation for autonomous driving
 # README
 
