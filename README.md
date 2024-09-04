@@ -3,7 +3,7 @@ Semantic Segmentation for autonomous driving
 # README
 
 ## Summary of Contents
-
+his repo is used for recording, tracking several real-time semantic segmentation for autonmous driving
 - [Methods: A Survey](#methods-a-survey)
   <!-- - [Meta-Architecture](#meta-architecture)
   - [Strong Representation](#strong-representation)
@@ -20,8 +20,6 @@ Semantic Segmentation for autonomous driving
   - [Medical Image Segmentation](#medical-image-segmentation) --> -->
 
 ## Methods: A Survey
-
-### Meta-Architecture
 
 | Year | Venue | Acronym | Paper Title | Code/Project | Dataset(s)|
 |------|-------|---------|-------------|--------------|--------------|
