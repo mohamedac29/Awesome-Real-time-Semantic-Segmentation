@@ -1,10 +1,12 @@
-from model.DSANet import DSANet
-from model.SPFNet import SPFNet
-from model.SSFPN import SSFPN
-
+from models.DSANet import DSANet
+from models.SPFNet import SPFNet
+from models.SSFPN import SSFPN
+from models.DABNet import DABNet
 
 def build_model(model_name,num_classes):
-    if model_name == 'DSANet':
+    if model_name == 'DABNet':
+        return DABNet(classes=num_classes)
+    elif model_name == 'DSANet':
         return DSANet(classes=num_classes)
     elif model_name == 'SPFNet':
         return SPFNet("resnet18",pretrained=True,classes=num_classes)
