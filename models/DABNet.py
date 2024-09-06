@@ -1,3 +1,7 @@
+"""
+DABNet: https://github.com/Reagan1311/DABNet
+"""
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
@@ -122,9 +126,8 @@ class InputInjection(nn.Module):
 
         return input
 
-#nIn, nOut, kSize, stride, padding, dilation=(1, 1), groups=1, bn_acti=False, bias=False
 class DABNet(nn.Module):
-    def __init__(self, classes=19, block_1=3, block_2=6):  #19个分类
+    def __init__(self, classes=19, block_1=3, block_2=6):  
         super().__init__()
         self.init_conv = nn.Sequential(                   
             Conv(3, 32, 3, 2, padding=1, bn_acti=True),
