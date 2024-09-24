@@ -28,7 +28,7 @@ his repo is used for recording, tracking several real-time semantic segmentation
         <th>Year</th>
         <th>Venue</th>
         <th>Title</th>
-        <th>Paper<th>
+        <th>Paper</th>
         <th>Code</th>
         <th>Dataset</th>
       </tr>
@@ -47,7 +47,7 @@ his repo is used for recording, tracking several real-time semantic segmentation
         <td>ERFNet</td>
         <td>2017</td>
         <td>T-ITS </td>
-        <td>ERFNet: Efficient Residual Factorized ConvNet for Real-time Semantic Segmentation<td>
+        <td>ERFNet: Efficient Residual Factorized ConvNet for Real-time Semantic Segmentation</td>
         <td><a href="https://ieeexplore.ieee.org/document/8063438">Paper</a></td>
         <td><a href="https://github.com/Eromera/erfnet">Code</a></td>
         <td>Cityscapes, Camvid</td>
