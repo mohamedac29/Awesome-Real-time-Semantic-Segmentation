@@ -185,7 +185,6 @@ his repo is used for recording, tracking several real-time semantic segmentation
         <td><a href="https://github.com/ydhongHIT/DDRNet">Code</a></td>
         <td>Cityscapes, CamVid, COCO-Stuff</td>  
     </tr>
-    
     </tbody>
     </table>
 
