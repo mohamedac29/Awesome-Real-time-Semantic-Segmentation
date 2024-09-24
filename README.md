@@ -20,22 +20,58 @@ his repo is used for recording, tracking several real-time semantic segmentation
   - [Medical Image Segmentation](#medical-image-segmentation) --> -->
 
 ## Methods: A Survey
-
-| Year | Venue | Acronym | Paper Title | Code/Project | Dataset(s)|
-|------|-------|---------|-------------|--------------|--------------|
-| 2021 | T-ITS  | DDRNet | [Deep Dual-resolution Networks for Real-time and Accurate Semantic Segmentation of Road Scenes](https://arxiv.org/abs/2101.06085) | [Code]( https://github.com/ydhongHIT/DDRNet) | Cityscapes, CamVid| 
-| 2021 | CVPR  |  STDC-Seg | [Rethinking BiSeNet For Real-time Semantic Segmentation](https://arxiv.org/abs/2104.13188) | [Code](https://github.com/MichaelFan01/STDC-Seg) | Cityscapes, CamVid|
-| 2016 | CVPR  |  ENet | [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](https://arxiv.org/abs/1606.02147) | [Code](https://github.com/iArunava/ENet-Real-Time-Semantic-Segmentation) | Cityscapes, CamVid|
-| 2017| T-ITS  |  ERFNet | [ERFNet: Efficient Residual Factorized ConvNet for Real-time Semantic Segmentation](https://ieeexplore.ieee.org/document/8063438) | [Code](https://github.com/Eromera/erfnet) | Cityscapes, CamVid|
-| 2018 | CVPR  |  ICNet | [ICNet for Real-Time Semantic Segmentation on High-Resolution Images](https://arxiv.org/abs/1704.08545) | [Code](https://github.com/hszhao/ICNet) | Cityscapes, CamVid|
-| 2017 | T-PAMI |  SegNet | [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](https://ieeexplore.ieee.org/abstract/document/7803544) | [Code](https://github.com/alexgkendall/caffe-segnet) | Cityscapes, CamVid|
-| 2019 | ICIP  |  LEDNet | [Lednet: A Lightweight Encoder-Decoder Network for Real-Time Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/8803154) | [Code](https://github.com/xiaoyufenfei/LEDNet) | Cityscapes, CamVid|
-| 2018 | CVPR  |  BiSeNet | [BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation](https://arxiv.org/abs/2104.13188) | [Code](https://github.com/MichaelFan01/STDC-Seg) | Cityscapes, CamVid|
-| 2021 | IJCV  |  BiSeNetV2 | [BiSeNet V2: Bilateral Network with Guided Aggregation for Real-Time Semantic Segmentation](https://link.springer.com/article/10.1007/s11263-021-01515-2) | [Code](https://github.com/CoinCheung/BiSeNet) | Cityscapes, CamVid|
-| 2019 | DICTA |  LiteSeg | [LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation](https://ieeexplore.ieee.org/abstract/document/8945975) | [Code](https://github.com/xiaoyufenfei/LEDNet) | Cityscapes, CamVid|
-
-
-
+### FCN-like Network
+ <table>
+    <thead>
+      <tr>
+       <th>Method</th>
+        <th>Year</th>
+        <th>Venue</th>
+        <th>Paper Title</th>
+        <th>Code</th>
+        <th>Dataset</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>ENet</td>
+        <td>2016</td>
+        <td>Arxiv</td>
+        <td>ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation</td>
+        <td><a href="https://arxiv.org/pdf/1606.02147.pdf">Paper</a></td>
+        <td><a href="https://github.com/TimoSaemann/ENet">Code</a></td>
+        <td>Cityscapes, CamVid</td>
+    </tr>
+    <tr>
+        <td>ERFNet</td>
+        <td>2017</td>
+        <td>T-ITS </td>
+        <td>ERFNet: Efficient Residual Factorized ConvNet for Real-time Semantic Segmentation<td>
+        <td><a href="https://ieeexplore.ieee.org/document/8063438">Paper</a></td>
+        <td><a href="https://github.com/Eromera/erfnet">Code</a></td>
+        <td>Cityscapes, Camvid</td>
+    </tr>
+    <tr>
+        <td>DABNet</td>
+        <td>2019</td>
+        <td>BMVC</td>
+        <td>DABNet: Depth-wise Asymmetric Bottleneck for Real-time Semantic Segmentation</td>
+        <td><a href="https://arxiv.org/pdf/1907.11357.pdf">Paper</a></td>
+        <td><a href="https://github.com/Reagan1311/DABNet">Code</a></td>
+        <td>Cityscapes, CamVid</td>
+    </tr>
+    <tr>
+        <td>LiteSeg</td>
+        <td>2019</td>
+        <td>DICTA</td>
+        <td>LiteSeg: A Novel Lightweight ConvNet for Semantic Segmentation</td>
+        <td><a href="https://ieeexplore.ieee.org/abstract/document/8945975">Paper</a></td>
+        <td><a href="https://github.com/xiaoyufenfei/LEDNet">Code</a></td>
+        <td>Cityscapes, CamVid</td>     
+    </tr>
+    </tbody>
+    </table>
+  
 <!-- | 2021 | NeurIPS | MaskFormer | [MaskFormer: Per-Pixel Classification is Not All You Need for Semantic Segmentation](https://arxiv.org/abs/2107.06278) | [Code](https://github.com/facebookresearch/MaskFormer) | -->
 <!-- | 2023 | CVPR  | PIDNet| [PIDNet: A Real-time Semantic Segmentation Network Inspired by PID Controllers
 ](https://arxiv.org/abs/2206.02066) | [Code](https://github.com/XuJiacong/PIDNet) | -->
