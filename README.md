@@ -27,7 +27,8 @@ his repo is used for recording, tracking several real-time semantic segmentation
        <th>Method</th>
         <th>Year</th>
         <th>Venue</th>
-        <th>Paper Title</th>
+        <th>Title</th>
+        <th>Paper<th>
         <th>Code</th>
         <th>Dataset</th>
       </tr>
