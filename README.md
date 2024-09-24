@@ -188,6 +188,59 @@ his repo is used for recording, tracking several real-time semantic segmentation
     </tbody>
     </table>
 
+### Multi Branch Networks
+
+<table>
+    <thead>
+      <tr>
+       <th>Method</th>
+        <th>Year</th>
+        <th>Venue</th>
+        <th>Title</th>
+        <th>Paper</th>
+        <th>Code</th>
+        <th>Dataset</th>
+      </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>ICNet</td>
+        <td>2018</td>
+        <td>ECCV</td>
+        <td>ICNet for Real-Time Semantic Segmentation on High-Resolution Images</td>
+        <td><a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Hengshuang_Zhao_ICNet_for_Real-Time_ECCV_2018_paper.pdf">Paper</a></td>
+        <td><a href="https://github.com/hszhao/ICNet">Code</a></td>
+        <td>Cityscapes, CamVid</td>  
+    </tr>
+    <tr>
+        <td>ESPNet</td>
+        <td>2018</td>
+        <td>ECCV</td>
+        <td>ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation</td>
+        <td><a href="https://openaccess.thecvf.com/content_ECCV_2018/papers/Sachin_Mehta_ESPNet_Efficient_Spatial_ECCV_2018_paper.pdf">Paper</a></td>
+        <td><a href="https://sacmehta.github.io/ESPNet/">Code</a></td>
+        <td>Cityscapes, PascalVOC</td>  
+    </tr>
+    <tr>
+        <td>DFANet</td>
+        <td>2019</td>
+        <td>CVPR</td>
+        <td>DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation</td>
+        <td><a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Li_DFANet_Deep_Feature_Aggregation_for_Real-Time_Semantic_Segmentation_CVPR_2019_paper.pdf">Paper</a></td>
+        <td><a href="https://github.com/huaifeng1993/DFANet">Code</a></td>
+        <td>Cityscapes, CamVid</td> 
+    </tr>
+    <tr>
+        <td>PIDNet</td>
+        <td>2023</td>
+        <td>CVPR</td>
+        <td>PIDNet: A Real-time Semantic Segmentation Network Inspired by PID Controllers</td>
+        <td><a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_PIDNet_A_Real-Time_Semantic_Segmentation_Network_Inspired_by_PID_Controllers_CVPR_2023_paper.pdf">Paper</a></td>
+        <td><a href="https://github.com/XuJiacong/PIDNet">Code</a></td>
+        <td>Cityscapes, CamVid,PASCAL Context</td>
+    </tr>
+    </tbody>
+    </table>
 <!-- | 2021 | NeurIPS | MaskFormer | [MaskFormer: Per-Pixel Classification is Not All You Need for Semantic Segmentation](https://arxiv.org/abs/2107.06278) | [Code](https://github.com/facebookresearch/MaskFormer) | -->
 <!-- | 2023 | CVPR  | PIDNet| [PIDNet: A Real-time Semantic Segmentation Network Inspired by PID Controllers
 ](https://arxiv.org/abs/2206.02066) | [Code](https://github.com/XuJiacong/PIDNet) | -->
