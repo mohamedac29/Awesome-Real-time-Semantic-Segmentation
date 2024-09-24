@@ -72,7 +72,44 @@ his repo is used for recording, tracking several real-time semantic segmentation
     </tr>
     </tbody>
     </table>
-  
+    
+ ### Transformer-based Networks 
+<table>
+    <thead>
+      <tr>
+       <th>Method</th>
+        <th>Year</th>
+        <th>Venue</th>
+        <th>Paper Title</th>
+        <th>Code</th>
+        <th>Dataset</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>SegFormer</td>
+        <td>2021</td>
+        <td>NeurIPS</td>
+        <td>SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers</td>
+        <td><a href="https://proceedings.neurips.cc/paper/2021/file/64f1f27bf1b4ec22924fd0acb550c235-Paper.pdf">Paper</a></td>
+        <td><a href="https://github.com/NVlabs/SegFormer">Code</a></td>
+        <td>Cityscapes, ADE20K</td>
+    </tr>
+    <tr>
+        <td>AFFormer</td>
+        <td>2023</td>
+        <td>AAAI</td>
+        <td>Head-Free Lightweight Semantic Segmentation with Linear Transformer</td>
+        <td><a href="https://arxiv.org/pdf/2301.04648.pdf">Paper</a></td>
+        <td><a href="https://github.com/dongbo811/AFFormer">Code</a></td>     
+        <td>Cityscapes, ADE20K</td>     
+    </tr>
+    </tbody>
+    </table>
+
+
+
+
 <!-- | 2021 | NeurIPS | MaskFormer | [MaskFormer: Per-Pixel Classification is Not All You Need for Semantic Segmentation](https://arxiv.org/abs/2107.06278) | [Code](https://github.com/facebookresearch/MaskFormer) | -->
 <!-- | 2023 | CVPR  | PIDNet| [PIDNet: A Real-time Semantic Segmentation Network Inspired by PID Controllers
 ](https://arxiv.org/abs/2206.02066) | [Code](https://github.com/XuJiacong/PIDNet) | -->
