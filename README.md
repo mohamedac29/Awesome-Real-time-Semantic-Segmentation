@@ -179,10 +179,10 @@ his repo is used for recording, tracking several real-time semantic segmentation
     <tr>
         <td>DSANet</td>
         <td>2021</td>
+        <td>ESWA</td>        
         <td>DSANet: Dilated spatial attention for real-time semantic segmentation in urban street scenes</td>
         <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417421005315">Paper</a></td>
         <td><a href="https://github.com/mohamedac29/DSANet">Code</a></td>
-        <td>ESWA</td>        
         <td>Cityscapes, CamVid</td>   
     </tr>
     </tbody>
