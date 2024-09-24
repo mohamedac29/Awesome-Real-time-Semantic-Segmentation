@@ -168,15 +168,6 @@ his repo is used for recording, tracking several real-time semantic segmentation
         <td>Cityscapes, CamVid</td>  
     </tr>
     <tr>
-        <td>DDRNet</td>
-        <td>2022</td>
-        <td>T-ITS</td>
-        <td>Deep Dual-resolution Networks for Real-time and Accurate Semantic Segmentation of Traffic Scenes</td>
-        <td><a href="https://arxiv.org/pdf/2101.06085.pdf">Paper</a></td>
-        <td><a href="https://github.com/ydhongHIT/DDRNet">Code</a></td>
-        <td>Cityscapes, CamVid, COCO-Stuff</td>  
-    </tr>
-    <tr>
         <td>DSANet</td>
         <td>2021</td>
         <td>ESWA</td>        
@@ -185,6 +176,16 @@ his repo is used for recording, tracking several real-time semantic segmentation
         <td><a href="https://github.com/mohamedac29/DSANet">Code</a></td>
         <td>Cityscapes, CamVid</td>   
     </tr>
+    <tr>
+        <td>DDRNet</td>
+        <td>2022</td>
+        <td>T-ITS</td>
+        <td>Deep Dual-resolution Networks for Real-time and Accurate Semantic Segmentation of Traffic Scenes</td>
+        <td><a href="https://arxiv.org/pdf/2101.06085.pdf">Paper</a></td>
+        <td><a href="https://github.com/ydhongHIT/DDRNet">Code</a></td>
+        <td>Cityscapes, CamVid, COCO-Stuff</td>  
+    </tr>
+    
     </tbody>
     </table>
 
